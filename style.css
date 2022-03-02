@@ -1,0 +1,61 @@
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: burlywood;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+header{
+    background-color: darkgray;
+}
+
+main{
+    background-color: aliceblue;
+}
+
+footer{
+    background-color: burlywood
+}
+
+.introduction{
+        margin: 2em;
+}
+
+.copyright{
+    margin: 2em;
+}
+
+.web{
+    margin: 1em;
+}
+
+p{
+    max-width: 1000px;
+    text-align: justify;
+}
+
+.topbutton {
+width:100px;
+border:2px solid #ccc;
+background:#f7f7f7;
+text-align:center;
+padding:10px;
+position:fixed;
+bottom:50px;
+right:50px;
+cursor:pointer;
+color:#333;
+font-family:verdana;
+font-size:12px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+-khtml-border-radius: 5px;
+}
+
